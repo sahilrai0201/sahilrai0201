@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA along with Frontend**
 
-- 💬 Ask me about **Html, CSS, JS, Python, Java, C, CPP**
+- 💬 Ask me about **HTML, CSS, JS, Python, Java, C, CPP**
 
 - 📫 How to reach me **sahilatwork21@gmail.com**
 
