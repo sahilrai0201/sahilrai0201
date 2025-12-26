@@ -62,12 +62,9 @@ I am a **Software Development student from India** with a strong interest in
 ---
 
 ## 🏆 Achievements
-
 <p align="center">
-  <img src="https://gh-trophies.vercel.app/?username=sahilrai0201&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sahilrai0201&row=1&no-frame=true" />
 </p>
-
-
 
 ---
 
