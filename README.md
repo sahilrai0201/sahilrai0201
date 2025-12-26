@@ -52,16 +52,17 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sahilrai0201&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilrai0201&show_icons=true&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilrai0201&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=sahilrai0201&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrai0201&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrai0201&layout=compact&hide_border=true" />
 </p>
 
 ---
