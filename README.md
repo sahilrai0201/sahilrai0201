@@ -1,25 +1,20 @@
-<!-- ===================== PROFILE BANNER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=Sahil%20Rai&fontSize=36&fontAlignY=45&desc=Software%20Development%20Student%20%7C%20DSA%20%26%20Frontend&descAlignY=68" />
-</p>
+# Sahil Rai
+### Software Development Student | DSA & Frontend
+**Problem Solver • Frontend Learner • Consistent Coder**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sahilrai0201&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">
-  <b>Problem Solver • Frontend Learner • Consistent Coder</b>
-</p>
-
 ---
 
 ## 🚀 About Me
-I am a **Software Development student from India** with a strong focus on  
+I am a **Software Development student from India** with a strong interest in  
 **Data Structures, Algorithms, and Frontend Development**.
 
 - 📘 Practicing DSA consistently on **LeetCode & GeeksforGeeks**
-- 🌱 Improving problem-solving skills and coding fundamentals
-- 🎯 Goal-oriented learner with a focus on long-term growth
+- 🌱 Improving problem-solving and coding fundamentals
+- 🎯 Focused on long-term growth and clean code
 
 📧 **Email:** sahilatwork21@gmail.com  
 
@@ -50,11 +45,11 @@ I am a **Software Development student from India** with a strong focus on
 ## 🧩 Current Focus
 - 📚 Strengthening **core DSA concepts**
 - 🧠 Writing optimized and readable code
-- 🌐 Building small but meaningful frontend projects
+- 🌐 Building responsive frontend projects
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sahilrai0201&show_icons=true&hide_border=true" />
   <img width="48%" src="https://streak-stats.demolab.com?user=sahilrai0201&hide_border=true" />
@@ -83,10 +78,6 @@ DSA • Frontend Development
 🔗 LinkedIn: https://linkedin.com/in/sahil-rai-55584a22a  
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
-</p>
 
 <p align="center">
   <i>Consistency builds confidence.</i>
