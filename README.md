@@ -62,9 +62,13 @@ I am a **Software Development student from India** with a strong interest in
 ---
 
 ## 🏆 Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahilrai0201&row=1&no-frame=true" />
+  <img src="https://img.shields.io/badge/DSA-100%2B%20Days-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LeetCode-Consistent-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-Projects-green?style=for-the-badge" />
 </p>
+
 
 ---
 
