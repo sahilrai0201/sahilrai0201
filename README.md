@@ -1,7 +1,13 @@
 <!-- ===================== PROFILE BANNER ===================== -->
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Sahil%20Rai&fontSize=38&fontAlignY=45&desc=Software%20Development%20Student%20%7C%20DSA%20%26%20Frontend&descAlignY=65" />
+  <strong>Sahil Rai</strong><br/>
+  Software Development Student | DSA & Frontend<br/><br/>
+  📧 sahilatwork21@gmail.com<br/>
+  🔗 <a href="https://linkedin.com/in/sahil-rai-55584a22a">LinkedIn Profile</a>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sahilrai0201&label=Profile%20views&color=0e75b6&style=flat" />
