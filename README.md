@@ -62,11 +62,41 @@
 
 ---
 
-## 🧠 LeetCode Activity
+---
 
+## 🧠 LeetCode Dashboard
+
+### 📊 LeetCode Stats & Heatmap
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sahilrai02_?theme=light&font=Fira%20Code&ext=heatmap" />
 </p>
+
+---
+
+### 🏅 LeetCode Badges
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=sahilrai02_&theme=light&animated=true" />
+</p>
+
+---
+
+### 📈 Problem Solving Consistency
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=sahilrai02_&theme=light" />
+</p>
+
+---
+
+### 🎯 DSA Milestones
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-DSA%20%26%20Problem%20Solving-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Consistency-100%2B%20Days%20Active-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Goal-500%2B%20Problems-orange?style=for-the-badge" />
+</p>
+
+---
+
+https://leetcard.jacoblin.cool/sahilrai02_?theme=dark&ext=heatmap
 
 ---
 
