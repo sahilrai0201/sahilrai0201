@@ -1,14 +1,3 @@
----
-
-## 👤 Profile Owner
-
-**Sahil Rai**  
-Software Development Student | DSA & Frontend Enthusiast  
-📍 India  
-
-📫 **Email:** sahilatwork21@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/sahil-rai-55584a22a](https://linkedin.com/in/sahil-rai-55584a22a)
-
 <!-- ===================== PROFILE BANNER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Sahil%20Rai&fontSize=38&fontAlignY=45&desc=Software%20Development%20Student%20%7C%20DSA%20%26%20Frontend&descAlignY=65" />
