@@ -60,17 +60,6 @@
 
 ---
 
-### 📈 Problem Solving Consistency
-<p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=sahilrai02_&theme=light" />
-</p>
-
----
-
-
-
----
-
 ## 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sahilrai0201&theme=flat&no-frame=true&row=1" />
