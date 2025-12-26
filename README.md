@@ -60,6 +60,16 @@
 
 ---
 
+---
+
+## 🧠 LeetCode Activity
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sahilrai02_?theme=light&font=Fira%20Code&ext=heatmap" />
+</p>
+
+---
+
 ## 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sahilrai0201&theme=flat&no-frame=true&row=1" />
