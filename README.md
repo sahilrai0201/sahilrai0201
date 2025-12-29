@@ -1,84 +1,91 @@
-# Sahil Rai
-### Software Development Student | DSA & Frontend
-**Problem Solver • Frontend Learner • Consistent Coder**
+## Hey 👋, I'm Sahil Rai!  
+  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahilrai0201&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<a href="https://github.com/sahilrai0201" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/sahil-rai-55584a22a" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/ig.sahilrai" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+  
 
----
 
-## 🚀 About Me
-I am a **Software Development student from India** with a strong interest in  
-**Data Structures, Algorithms, and Frontend Development**.
 
-- 📘 Practicing DSA consistently on **LeetCode & GeeksforGeeks**
-- 🌱 Improving problem-solving and coding fundamentals
-- 🎯 Focused on long-term growth and clean code
+### Glad to see you here!  
+“I am a software development learner focused on DSA for logical thinking and Frontend Development for creating modern, interactive web applications.”  
+  
 
-📧 **Email:** sahilatwork21@gmail.com  
+<br/>  
 
----
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/sahil-rai-55584a22a">
-    <img src="https://img.icons8.com/color/40/linkedin.png"/>
-  </a>
-  <a href="https://leetcode.com/sahilrai02_">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/40/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/sahilatwotx">
-    <img src="https://img.icons8.com/color/40/GeeksforGeeks.png"/>
-  </a>
-</p>
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
 
----
+- 🌱 I’m currently learning about databases  
+  
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,bootstrap,tailwind,git,mysql,mongodb&perline=6" />
-</p>
+- ❓ Ask me about anything related to C++/javascript/bootstrap  
+  
 
----
+- ⚡ Fun fact: I keep night shift swithed on at all times   
 
-## 🧩 Current Focus
-- 📚 Strengthening **core DSA concepts**
-- 🧠 Writing optimized and readable code
-- 🌐 Building responsive frontend projects
 
----
+</td><td valign="top" width="50%">
 
-## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sahilrai0201&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=sahilrai0201&hide_border=true" />
-</p>
+<div align="center">
+<img src="" align="center" style="width: 100%" />
+</div>  
 
-<p align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrai0201&layout=compact&hide_border=true" />
-</p>
 
----
+</td></tr></table>  
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahilrai0201&row=1&no-frame=true" />
-</p>
+<br/>  
 
----
 
-## 👤 Author
+## Languages and Tools  
+<div align="center">  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
+</div>  
 
-**Sahil Rai**  
-Software Development Student  
-DSA • Frontend Development  
+<br/>  
 
-📧 Email: **sahilatwork21@gmail.com**  
-🔗 LinkedIn: https://linkedin.com/in/sahil-rai-55584a22a  
 
----
+## Github Stats  
+<table><tr><td valign="top" width="50%">
 
-<p align="center">
-  <i>Consistency builds confidence.</i>
-</p> 
+<img src="https://github-readme-stats.vercel.app/api?username=sahilrai0201&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrai0201&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=sahilrai0201&&style=flat-square)  
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
