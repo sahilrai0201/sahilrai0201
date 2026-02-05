@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Rai</h1>
 
 <p align="center">
-  <a href="https://github.com/sahilrai0201">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Development+Student;DSA+%7C+Frontend+Developer;Passionate+about+Clean+Code;Always+Learning+New+Things" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=520&lines=Software+Development+Student;DSA+%7C+Frontend+Developer;Focused+on+Problem+Solving;Consistent+Learner" />
 </p>
 
 <p align="center">
@@ -14,10 +12,10 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **Data Structures & Algorithms + Frontend Development**
-- 💬 Comfortable with **HTML, CSS, JavaScript, Python, Java, C, C++**
-- 🎯 Goal: Become a **skilled software engineer** and build impactful products
-- 📫 Reach me at **sahilatwork21@gmail.com**
+- 🌱 Learning **Data Structures & Algorithms + Frontend Development**
+- 🧠 Strong interest in **problem solving & clean code**
+- 💬 Tech stack: **HTML, CSS, JavaScript, Python, Java, C, C++**
+- 📫 Email: **sahilatwork21@gmail.com**
 
 ---
 
@@ -25,16 +23,16 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/sahil-rai-55584a22a">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
   <a href="https://instagram.com/ig.sahilrai">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
   </a>
   <a href="https://www.leetcode.com/sahilrai02_">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/sahilatwotx">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40"/>
   </a>
 </p>
 
@@ -53,36 +51,35 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements (Stable & Recruiter-Friendly)
+
+- ✅ Regular **DSA practice** on LeetCode & GeeksforGeeks  
+- ✅ Strong foundation in **arrays, stacks, queues, recursion**
+- ✅ Building **frontend projects** alongside DSA
+- ✅ Consistent GitHub learner & contributor
+
+---
+
+## 📊 GitHub Stats (Most Stable Version)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahilrai0201&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilrai0201&show_icons=true&count_private=true&cache_seconds=1800" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 💻 LeetCode Stats (More Reliable Than GitHub Trophies)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilrai0201&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilrai0201&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilrai0201&theme=tokyonight" />
+  <img src="https://leetcard.jacoblin.cool/sahilrai02_?theme=light&font=Baloo&ext=contest" />
 </p>
 
 ---
 
 <p align="center">
-  💡 <i>“Consistency beats talent when talent doesn’t work consistently.”</i>
+  💡 <i>“Daily improvement is better than occasional perfection.”</i>
 </p>
