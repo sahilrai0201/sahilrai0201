@@ -5,7 +5,6 @@ Email Me 👉 ✉️ **sahilatwork21@gmail.com** For Collaboration/Project or An
 
 - 🔭 **I’m currently working on:** Urban Heat Island
 - 🌱 **I’m currently learning:** DSA & Full stack development using MERN
-- 📫 **How to reach me:** sahilatwork21@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 - 
 ## 🌐 Socials:
