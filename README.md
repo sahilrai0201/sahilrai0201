@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Sahil Rai
-**A passionate Software Engineer Student || MERN stack developer from India**
+**A passionate Software Engineer Student**
 
 Email Me 👉 ✉️ **sahilatwork21@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
